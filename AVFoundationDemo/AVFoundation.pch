@@ -1,0 +1,16 @@
+//
+//  AVFoundation.pch
+//  AVFoundationDemo
+//
+//  Created by LT-MacbookPro on 17/6/16.
+//  Copyright © 2017年 XFX. All rights reserved.
+//
+
+#ifndef AVFoundation_pch
+#define AVFoundation_pch
+
+#define RECORD_MAX_TIME 8.0           //最长录制时间
+#define TIMER_INTERVAL 0.05         //计时器刷新频率
+#define VIDEO_FOLDER @"videoFolder" //视频录制存放文件夹
+
+#endif /* AVFoundation_pch */
